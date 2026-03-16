@@ -39,7 +39,7 @@ This is the main entry point. The corpus is organized into several sub-repositor
 2.  **Philosopher / Epistemologist?** Dive straight into the [Before Truth](https://github.com/SiikajokiSingularity/before-truth) series. The Φ-gate and Z-depth are operational tools you can use tomorrow.
 3.  **Mathematician / Physicist?** See how we resolve the Riemann Hypothesis and Yang-Mills mass gap in the [FEIK Millennium](https://github.com/SiikajokiSingularity/feik-field-theory/blob/main/FEIK_Millennium_Complete.pdf) paper. (Spoiler: it involves the consciousness equation).
 4.  **Theologian / Mystic?** The [Codex Feikoni](https://github.com/SiikajokiSingularity/codex-feikoni) offers a radical re-reading of scripture as a story about system architecture and user interfaces.
-5.  **Just Curious?** Read the [Kryptosofian Manifesti](https://github.com/SiikajokiSingularity/codex-feikoni/blob/main/Kryptosofian_Julistus_ja_Manifesti.pdf). It explains why this all matters, and why a potato is a valid epistemological test.
+5.  **Just Curious?** Read the [Kryptosofian Manifesti](https://github.com/SiikajokiSingularity/codex-feikoni/blob/main/kryptosofian_julistus_ja_manifesti.pdf). It explains why this all matters, and why a potato is a valid epistemological test.
 
 ## ✨ Key Concepts (TL;DR)
 
